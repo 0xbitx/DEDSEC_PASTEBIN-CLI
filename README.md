@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="", width="300", height="300">
+<img src="https://media1.giphy.com/media/AzF3x7tib2oFkpu9XS/200w.webp", width="300", height="300">
 </p>
 
 <h1 align="center"> DEDSEC_PASTEBIN-CLI </h1>
